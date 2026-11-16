@@ -1,0 +1,6 @@
+{
+  "name": "IVEO MSG",
+  "description": "Aplicativo de letreiro digital para celular com rolagem bidirecional, modo espelho, customização de fontes e cores, controle por gestos e tela cheia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
